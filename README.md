@@ -10,7 +10,8 @@ Iran University of Science and Technology - Compruter Organization
 
 This repository includes the following directories:
 - Homeworks
-- Presentations
-- Verilog Assignments
+- Calculator_Pipleline
+- Verilog_Assignment
+- Final_Project
 
 email: iustCompOrg+4021@gmail.com

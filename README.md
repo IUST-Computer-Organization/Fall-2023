@@ -10,7 +10,7 @@ Iran University of Science and Technology - Compruter Organization
 
 This repository includes the following directories:
 - Homeworks
-- Calculator_Pipleline
+- Calculator_Multicycle
 - Verilog_Assignment
 - Final_Project
 

@@ -1,0 +1,84 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sat Dec 23 07:37:54 2023
+[*]
+[dumpfile] "C:\Users\user\Desktop\Calculator_Multicycle\Core.vcd"
+[dumpfile_mtime] "Sat Dec 23 07:25:58 2023"
+[dumpfile_size] 164243
+[savefile] "C:\Users\user\Desktop\Calculator_Multicycle\Core.gtkw"
+[timestart] 0
+[size] 1920 1009
+[pos] -1 -1
+*-4.000000 30 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Core_Testbench.
+[sst_width] 378
+[signals_width] 400
+[sst_expanded] 1
+[sst_vpaned_height] 298
+@28
+Core_Testbench.clk
+Core_Testbench.uut.reset
+@200
+-
+@24
+Core_Testbench.uut.state[1:0]
+Core_Testbench.uut.nextState[1:0]
+@200
+-
+@28
+Core_Testbench.uut.memoryReadWrite
+Core_Testbench.uut.memoryEnable
+@22
+Core_Testbench.uut.memoryAddress[17:0]
+Core_Testbench.uut.memoryData[17:0]
+@200
+-
+@28
+Core_Testbench.uut.pcWrite
+@24
+Core_Testbench.uut.pc[17:0]
+@200
+-
+@28
+Core_Testbench.uut.irWrite
+@22
+Core_Testbench.uut.ir[17:0]
+@200
+-
+@28
+Core_Testbench.uut.opcode
+Core_Testbench.uut.funct
+@200
+-
+@28
+Core_Testbench.uut.aluSrc_1
+Core_Testbench.uut.aluSrc_2
+@200
+-
+@28
+Core_Testbench.uut.aluOperation
+@24
+Core_Testbench.uut.aluOperand_1[7:0]
+Core_Testbench.uut.aluOperand_2[7:0]
+@420
+Core_Testbench.uut.aluResult[17:0]
+@200
+-
+@28
+Core_Testbench.uut.multiplierEnable
+@22
+Core_Testbench.uut.mulOperand_1[7:0]
+Core_Testbench.uut.mulOperand_2[7:0]
+Core_Testbench.uut.multiplierResult[17:0]
+@200
+-
+@28
+Core_Testbench.uut.dividerEnable
+@420
+Core_Testbench.uut.divOperand_1[7:0]
+@24
+Core_Testbench.uut.divOperand_2[7:0]
+@420
+Core_Testbench.uut.dividerResult[17:0]
+[pattern_trace] 1
+[pattern_trace] 0
